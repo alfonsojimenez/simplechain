@@ -1,0 +1,2 @@
+defmodule Simplechain do
+end
